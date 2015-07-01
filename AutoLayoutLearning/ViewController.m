@@ -103,9 +103,6 @@
     [self.view addConstraints:viewsConstraintsH];
     [self.view addConstraints:viewsConstraintsV];
     [self.view addConstraints:viewsConstraintsV2];
-    
-    //Implement size classes here.
-
 }
 
 - (void)viewDidLoad {
