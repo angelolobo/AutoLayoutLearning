@@ -27,6 +27,7 @@
 }
 
 -(void)setupViews{
+    //Setup views
     UIView *redView = [UIView new];
     redView.translatesAutoresizingMaskIntoConstraints = NO;
     redView.backgroundColor = [UIColor colorWithRed:0.95 green:0.47 blue:0.48 alpha:1.0];
